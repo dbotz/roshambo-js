@@ -1,7 +1,7 @@
 
 
 function Result() {
-	this.WIN  = "Win";
-	this.LOSS = "Loss";
-	this.TIE  = "Tie";
+	this.WIN  = "You win, Winnter";
+	this.LOSS = "Looser!  Looser!  You are a Looser";
+	this.TIE  = "Its a Tie";
 }
